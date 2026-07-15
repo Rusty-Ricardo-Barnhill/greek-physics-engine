@@ -1,5 +1,5 @@
-# greek-physics-engine
-A high-performance, stateless API for calculating second-order Greeks and Gamma Exposure (GEX).
+# Greek Physics Options Engine
+The Greek Physics Options Engine is a high-performance, stateless REST API that calculates advanced second-order options Greeks and structural Gamma Exposure (GEX).
 
 🌟 Highlights
 
